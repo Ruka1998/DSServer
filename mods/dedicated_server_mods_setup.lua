@@ -5,6 +5,11 @@
 	--Example: http://steamcommunity.com/sharedfiles/filedetails/?id=350811795
 	--ServerModSetup("350811795")
 
+ServerModSetup("347079953")
+ServerModSetup("362175979")
+ServerModSetup("378160973")
+ServerModSetup("666155465")
+
 --ServerModCollectionSetup takes a string of a specific mod's Workshop id. It will download all the mods in the collection and install them to the mod directory on boot.
 	--The Workshop id can be found at the end of the url to the collection's Workshop page.
 	--Example: http://steamcommunity.com/sharedfiles/filedetails/?id=379114180
